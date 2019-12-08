@@ -1,0 +1,7 @@
+import numpy as np
+import pandas an pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+dfile = str(input('Enter File Name')) + '.csv'
+
